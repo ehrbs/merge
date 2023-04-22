@@ -2,7 +2,7 @@
 
 int main(int argc,char *argv[]){
 
-	printf("merge\n");
+	printf("merge_conflict\n");
 
 	return 0;
 }
